@@ -1,0 +1,21 @@
+.box {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #00eaff;
+}
+
+.box p{
+    font-size: 100px;
+    color: gold;
+}
+
+.box input{
+    width: 300px;
+    padding: 10px;
+    border: none;
+    outline: none;
+
+}

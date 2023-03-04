@@ -1,0 +1,37 @@
+
+.cardBox{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+}
+.card{
+    background-color: grey;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.45);
+}
+.card img{
+    width: 200px;
+}
+.card p{
+    padding: 20px;
+    font-size: 20px;
+    color: gold;
+}
+
+.card span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-size: 20px;
+    color: gold;
+}
+
+.card div{
+    height: 50px;
+    display: flex;
+    padding: 10px;
+}

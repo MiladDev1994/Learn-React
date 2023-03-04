@@ -1,0 +1,20 @@
+.banner{
+    width: 100%;
+    position: relative;
+}
+
+.banner img{
+    width: 100%;
+}
+
+.text{
+    position: absolute;
+    top: 30%;
+    font-size: 180px;
+    color: #7b5305;
+}
+
+.text span{
+    color: #00eaff;
+    font-weight: bold;
+}
